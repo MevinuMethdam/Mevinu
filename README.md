@@ -1,1 +1,1 @@
-# Mevinu
+# Image Clssifier Project
